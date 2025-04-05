@@ -4,7 +4,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E. 7th St</Street>
       <City>Tempe</City>
@@ -16,7 +16,7 @@
   <Hotel Rating="4.5">
     <Name>Hyatt Regency</Name>
     <!-- 3 -->
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>122</Number>
       <Street>N 2nd St</Street>
       <City>Phoenix</City>
@@ -29,7 +29,7 @@
     <Name>Holiday Inn Express and Suites Tempe</Name>
     <Name>Holiday Inn Duplicate </Name> <!-- 5 -->
     <Phone>480-966-7202</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>1520</Number>
       <Street>S Dorsey Ln</Street>
       <City>Tempe</City>
@@ -41,7 +41,7 @@
   <Hotel Rating="3.8">
     <Name>Holiday Inn Express</Name>
     <Phone>480-967-1441</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>1031</Number>
       <Street>E Apache Blvd</Street>
       <City>Tempe</City>
@@ -54,7 +54,7 @@
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
     <Phone>800-547-8705</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>60</Number>
       <Street>E 5th St</Street>
       <City>Tempe</City>
@@ -67,7 +67,7 @@
     <Name>DoubleTree Suites</Name>
     <Phone>602-957-8200</Phone>
     <Phone>800-445-8667</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>320</Number>
       <Street>N 44th St</Street>
       <City>Phoenix</City>
@@ -79,7 +79,7 @@
   <Hotel Rating="3.9">
     <Name>Comfort Inn</Name>
     <Phone>480-345-9200</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>1625</Number>
       <Street>S 52nd St</Street>
       <City>Tempe</City>
@@ -91,7 +91,7 @@
   <Hotel>
     <Name>The Park New Delhi</Name>
     <Phone>011-23743000</Phone>
-    <Address NearestAirport="Indira Gandhi International Airport">
+    <Address NearstAirport="Indira Gandhi International Airport">
       <Number>15</Number>
       <Street>Parliament Street</Street>
       <City>New Delhi</City>
@@ -104,7 +104,7 @@
     <Name>Courtyard Marriott</Name>
     <Phone>480-966-4300</Phone>
     <Phone>888-236-2427</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>601</Number>
       <Street>S Ash Ave</Street>
       <City>Tempe</City>
@@ -116,7 +116,7 @@
   <Hotel Rating="3.9">
     <Name>Holiday Inn Express and Suites Tempe</Name>
     <Phone>480-966-7202</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>1520</Number>
       <Street>S Dorsey Ln</Street>
       <City>Tempe</City>
