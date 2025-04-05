@@ -87,17 +87,18 @@
     </Address>
   </Hotel>
 
-  <Hotel>
-    <Name>The Park New Delhi</Name>
-    <Phone>011-23743000</Phone>
-    <Address NearstAirport="Indira Gandhi International Airport">
-      <Number>15</Number>
-      <Street>Parliament Street</Street>
-      <City>New Delhi</City>
-      <State>DL</State>
-      <Zip>110001</Zip>
-    </Address>
-  </Hotel>
+  <Hotel Rating="4.2">
+  <Name>The LINE LA</Name>
+  <Phone>213-381-7411</Phone>
+  <Address NearstAirport="Los Angeles International Airport">
+    <Number>3515</Number>
+    <Street>Wilshire Blvd</Street>
+    <City>Los Angeles</City>
+    <State>CA</State>
+    <Zip>90010</Zip>
+  </Address>
+</Hotel>
+
 
   <Hotel Rating="4.1">
     <Name>Courtyard Marriott</Name>
@@ -124,15 +125,16 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.9">
-    <Name>The Leela Palace New Delhi</Name>
-    <Phone>011-39331234</Phone>
-    <Address NearstAirport="Indira Gandhi International Airport">
-      <Number>Chanakyapuri</Number>
-      <Street>Africa Avenue</Street>
-      <City>New Delhi</City>
-      <State>DL</State>
-      <Zip>110023</Zip>
-    </Address>
-  </Hotel>
+  <Hotel Rating="4.4">
+  <Name>Hotel Figueroa</Name>
+  <Phone>213-627-8971</Phone>
+  <Phone>888-888-8888</Phone>
+  <Address NearstAirport="Los Angeles International Airport">
+    <Number>939</Number>
+    <Street>S Figueroa St</Street>
+    <City>Los Angeles</City>
+    <State>CA</State>
+    <Zip>90015</Zip>
+  </Address>
+</Hotel>
 </Hotels>
