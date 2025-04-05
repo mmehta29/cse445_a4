@@ -10,7 +10,7 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-    <!-- 4 -->
+    </Address>
   </Hotel>
 
   <Hotel Rating="4.5">
@@ -35,7 +35,7 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-    </Address>
+    <!-- 2 -->
   </Hotel>
 
   <Hotel Rating="3.8">
